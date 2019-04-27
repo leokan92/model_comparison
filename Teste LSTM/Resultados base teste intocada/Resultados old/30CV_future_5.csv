@@ -1,0 +1,3 @@
+Hyper_id,MAE_test,MSE_test,RMSE_test,MAPE_test,MPE_test,MAE_train,MSE_train,RMSE_train,MAPE_train,MPE_train,Window,Dropout Rate,Number of Neurons (each layer),Number of Epochs, Batche Size, Prediction Window
+Hyper_id,MAE_test,MSE_test,RMSE_test,MAPE_test,MPE_test,MAE_train,MSE_train,RMSE_train,MAPE_train,MPE_train,Window,Dropout Rate,Number of Neurons (each layer),Number of Epochs, Batche Size, Prediction Window
+0,203.16402842203777,41552.99546220964,203.84551862184668,32.218511459046184,32.218511459046184,139.0722989770001,23906.778987767706,154.61817159625096,30.04403573657055,29.352141902051095,203,0.1,700,85,60,5
